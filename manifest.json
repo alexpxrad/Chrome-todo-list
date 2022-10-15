@@ -1,0 +1,11 @@
+{
+    "name": "Get It Done",
+    "version": "0.01",
+    "description": "A quick and simple pop up to do list",
+    "browser_action": {
+        "default_title": "Get it Done",
+        "default_popup": "popout.html"
+    },
+        "manifest_version": 2
+
+}
